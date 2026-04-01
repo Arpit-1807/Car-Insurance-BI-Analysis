@@ -41,6 +41,13 @@ The Power BI dashboard includes:
 ## Project Outcome
 This project demonstrates how business intelligence techniques can be applied to evaluate insurance portfolio performance and risk exposure.
 
+## Dataset
+
+Due to file size limitations, datasets are hosted externally.
+
+Download here:
+- Policy Sales & Claims Datasets: https://drive.google.com/drive/folders/1yPwSXpwsKEroSvoZ4YRtTI8-qgkVx4RR?usp=sharing
+ 
 ---
 
 
